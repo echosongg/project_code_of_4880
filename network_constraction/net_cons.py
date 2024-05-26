@@ -59,10 +59,6 @@ def get_data(file_name, var, date_time):
                 ds_selected_domained = ds_raw.sel(time=i)[var]
                 da_selected_au = ds_selected_domained[b, :][:, a].copy()
                 temp = cv2.resize(da_selected_au.values, size, interpolation=cv2.INTER_CUBIC)
-                #mask ocean
-                temp = maskoceans(lons, lats, temp)  # 确保maskoceans函数可用
-                # 将被掩码的部分设置为 NaN
-                #temp[masked_temp.mask] = np.nan
                 da_interp = xr.DataArray(temp, dims=("lat", "lon"), coords={"lat": new_lat, "lon": new_lon, "time": i}, name=var)
                 break  # 如果找到匹配日期则停止循环
 
