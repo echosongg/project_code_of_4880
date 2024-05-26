@@ -16,6 +16,7 @@ This project consists of two main parts: network construction (`network_contract
 - `Louvain.py`: Implements community detection of Louvain method. Results and log information are stored in the `l_result` folder.
 - `propagation.py`: implements community detection of propagation algorithm. Results and log information are stored in the `p_result` folder.
 - `spectral.py`: implements community detection using the spectral method. Results and log information are stored in the `s_result` folder.
+- `visualization.py`: Can visualize all communities into different colors.
 
 ### Result visualization
 
