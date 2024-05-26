@@ -1,0 +1,25 @@
+2024-05-19 21:19:01,452 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 21:21:33,683 - INFO - Converting the graph to an adjacency matrix.
+2024-05-19 21:21:41,545 - INFO - Searching for the optimal number of clusters.
+2024-05-19 21:21:49,625 - INFO - Number of clusters: 2, Silhouette Score: -0.37394921659195796
+2024-05-19 21:21:57,769 - INFO - Number of clusters: 3, Silhouette Score: -0.37834271430159117
+2024-05-19 21:22:05,828 - INFO - Number of clusters: 4, Silhouette Score: -0.37645525407975294
+2024-05-19 21:22:13,813 - INFO - Number of clusters: 5, Silhouette Score: -0.37211361902723583
+2024-05-19 21:22:21,947 - INFO - Number of clusters: 6, Silhouette Score: -0.36644265271722465
+2024-05-19 21:22:30,107 - INFO - Number of clusters: 7, Silhouette Score: -0.36238438008812296
+2024-05-19 21:22:38,240 - INFO - Number of clusters: 8, Silhouette Score: -0.3634496147842639
+2024-05-19 21:22:46,437 - INFO - Number of clusters: 9, Silhouette Score: -0.3578370227001363
+2024-05-19 21:22:46,437 - INFO - Optimal number of clusters: 9
+2024-05-19 21:22:51,462 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 21:22:51,464 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 21:22:51,466 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 21:22:51,468 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 21:22:51,470 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 21:22:51,471 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 21:22:51,473 - INFO - Community 7 positions saved to community_7_positions.npy
+2024-05-19 21:22:51,474 - INFO - Community 8 positions saved to community_8_positions.npy
+2024-05-19 21:22:51,476 - INFO - Community 9 positions saved to community_9_positions.npy
+2024-05-19 21:23:01,116 - INFO - Modularity: 0.0006008423562387658
+2024-05-19 22:56:24,910 - INFO - Average Clustering Coefficient: 0.8166931487046857
+2024-05-19 22:56:32,037 - INFO - Average Community Density: 0.8241578609231334
+2024-05-19 22:56:44,368 - INFO - Silhouette Coefficient: -0.3578370227001363

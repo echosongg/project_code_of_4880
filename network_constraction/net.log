@@ -1,0 +1,6 @@
+2024-05-26 15:21:34,120 - INFO - Loaded graph with 6072 nodes and 7641434 edges.
+2024-05-26 15:22:00,912 - INFO - Simplified graph to 6072 nodes and 7641434 edges.
+2024-05-26 15:22:05,061 - INFO - Average edge weight: 0.94
+2024-05-26 15:22:05,063 - INFO - Network density: 0.4146
+2024-05-26 15:22:05,065 - INFO - Average degree centrality: 0.4146
+2024-05-26 16:27:54,407 - INFO - Average closeness centrality: 0.6033

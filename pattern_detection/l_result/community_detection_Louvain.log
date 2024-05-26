@@ -1,0 +1,11 @@
+2024-05-26 02:34:15,619 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_aus_mask_net.graphml'.
+2024-05-26 02:36:43,829 - INFO - Applying Louvain algorithm for community detection.
+2024-05-26 02:38:48,643 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/l_result/community_1_positions.npy
+2024-05-26 02:38:48,647 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/l_result/community_2_positions.npy
+2024-05-26 02:38:48,649 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/l_result/community_3_positions.npy
+2024-05-26 02:38:48,653 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/l_result/community_4_positions.npy
+2024-05-26 02:38:48,655 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/l_result/community_5_positions.npy
+2024-05-26 02:38:58,664 - INFO - Modularity: 0.4248531186619088
+2024-05-26 02:38:59,050 - INFO - Silhouette Coefficient: -0.012253163153380724
+2024-05-26 03:44:54,938 - INFO - Global Efficiency: 0.6884295887263521
+2024-05-26 03:45:01,636 - INFO - Conductance: 0.3891163889372501

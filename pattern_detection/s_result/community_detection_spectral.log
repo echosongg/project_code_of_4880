@@ -1,0 +1,162 @@
+2024-05-19 22:25:21,721 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year.graphml'.
+2024-05-19 22:28:02,833 - INFO - Converting the graph to an adjacency matrix.
+2024-05-19 22:28:10,888 - INFO - Searching for the optimal number of clusters.
+2024-05-19 22:28:21,267 - INFO - Number of clusters: 2, Silhouette Score: -0.4528385977358741
+2024-05-19 22:28:31,206 - INFO - Number of clusters: 3, Silhouette Score: -0.44737776256092066
+2024-05-19 22:28:41,891 - INFO - Number of clusters: 4, Silhouette Score: -0.44233270907089833
+2024-05-19 22:28:51,709 - INFO - Number of clusters: 5, Silhouette Score: -0.43873257865625614
+2024-05-19 22:29:01,621 - INFO - Number of clusters: 6, Silhouette Score: -0.444680586066443
+2024-05-19 22:29:11,965 - INFO - Number of clusters: 7, Silhouette Score: -0.4397686328409952
+2024-05-19 22:29:22,191 - INFO - Number of clusters: 8, Silhouette Score: -0.43707723672870846
+2024-05-19 22:29:32,254 - INFO - Number of clusters: 9, Silhouette Score: -0.43321084655632425
+2024-05-19 22:29:32,254 - INFO - Optimal number of clusters: 9
+2024-05-19 22:29:39,096 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-19 22:29:39,098 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-19 22:29:39,099 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-19 22:29:39,101 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-19 22:29:39,103 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-19 22:29:39,104 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-19 22:29:39,106 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-19 22:29:39,107 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-19 22:29:39,109 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-19 22:29:49,462 - INFO - Modularity: 0.0002724805661423557
+2024-05-20 00:14:22,427 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-20 00:16:56,627 - INFO - Converting the graph to an adjacency matrix.
+2024-05-20 00:17:04,422 - INFO - Searching for the optimal number of clusters.
+2024-05-20 00:17:19,000 - INFO - Number of clusters: 2, Modularity: 4.17508601302353e-05
+2024-05-20 00:17:33,863 - INFO - Number of clusters: 3, Modularity: 4.371519997066175e-05
+2024-05-20 00:17:48,623 - INFO - Number of clusters: 4, Modularity: 0.00015698841933115345
+2024-05-20 00:18:03,572 - INFO - Number of clusters: 5, Modularity: 0.0002738486371046326
+2024-05-20 00:18:18,618 - INFO - Number of clusters: 6, Modularity: 0.00031553505790457743
+2024-05-20 00:18:33,560 - INFO - Number of clusters: 7, Modularity: 0.0003811262537155484
+2024-05-20 00:18:49,046 - INFO - Number of clusters: 8, Modularity: 0.0005288902277080125
+2024-05-20 00:19:04,570 - INFO - Number of clusters: 9, Modularity: 0.0005372650432892149
+2024-05-20 00:19:04,570 - INFO - Optimal number of clusters: 9
+2024-05-20 00:19:10,309 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-20 00:19:10,311 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-20 00:19:10,313 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-20 00:19:10,315 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-20 00:19:10,317 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-20 00:19:10,319 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-20 00:19:10,321 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-20 00:19:10,324 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-20 00:19:10,326 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-20 00:19:20,119 - INFO - Modularity: 0.0005372650432892149
+2024-05-20 00:19:32,345 - INFO - Silhouette Coefficient: -0.36005284261162906
+2024-05-20 00:19:39,169 - INFO - Community 1 Average Internal Degree: 2605.8160723426035
+2024-05-20 00:19:39,169 - INFO - Community 2 Average Internal Degree: 23.954545454545453
+2024-05-20 00:19:39,169 - INFO - Community 3 Average Internal Degree: 11.466666666666667
+2024-05-20 00:19:39,169 - INFO - Community 4 Average Internal Degree: 21.466666666666665
+2024-05-20 00:19:39,169 - INFO - Community 5 Average Internal Degree: 24.608695652173914
+2024-05-20 00:19:39,169 - INFO - Community 6 Average Internal Degree: 14.0
+2024-05-20 00:19:39,169 - INFO - Community 7 Average Internal Degree: 8.363636363636363
+2024-05-20 00:19:39,169 - INFO - Community 8 Average Internal Degree: 7.846153846153846
+2024-05-20 00:19:39,169 - INFO - Community 9 Average Internal Degree: 25.8
+2024-05-20 00:25:19,302 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-20 00:26:08,872 - INFO - Average Clustering Coefficient: 0.831459581503028
+2024-05-20 00:26:16,593 - INFO - Average Community Density: 0.39629908734502023
+2024-05-20 00:26:29,168 - INFO - Silhouette Coefficient: -0.43321084655632425
+2024-05-20 00:27:50,075 - INFO - Converting the graph to an adjacency matrix.
+2024-05-20 00:27:57,540 - INFO - Searching for the optimal number of clusters.
+2024-05-20 00:28:12,085 - INFO - Number of clusters: 2, Modularity: 4.17508601302353e-05
+2024-05-20 00:28:26,800 - INFO - Number of clusters: 3, Modularity: 4.371519997066175e-05
+2024-05-20 00:28:41,575 - INFO - Number of clusters: 4, Modularity: 0.00015698841933115345
+2024-05-20 00:28:56,401 - INFO - Number of clusters: 5, Modularity: 0.0002738486371046326
+2024-05-20 00:29:11,440 - INFO - Number of clusters: 6, Modularity: 0.00031553505790457743
+2024-05-20 00:29:26,403 - INFO - Number of clusters: 7, Modularity: 0.0003811262537155484
+2024-05-20 00:29:41,775 - INFO - Number of clusters: 8, Modularity: 0.0005288902277080125
+2024-05-20 00:29:57,208 - INFO - Number of clusters: 9, Modularity: 0.0005372650432892149
+2024-05-20 00:29:57,208 - INFO - Optimal number of clusters: 9
+2024-05-20 00:30:02,905 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-20 00:30:03,377 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-20 00:30:03,381 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-20 00:30:03,383 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-20 00:30:03,386 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-20 00:30:03,389 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-20 00:30:03,392 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-20 00:30:03,394 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-20 00:30:03,395 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-20 00:30:13,196 - INFO - Modularity: 0.0005372650432892149
+2024-05-20 00:30:25,369 - INFO - Silhouette Coefficient: -0.36005284261162906
+2024-05-20 00:30:32,084 - INFO - Community 1 Average Internal Degree: 2605.8160723426035
+2024-05-20 00:30:32,084 - INFO - Community 2 Average Internal Degree: 23.954545454545453
+2024-05-20 00:30:32,084 - INFO - Community 3 Average Internal Degree: 11.466666666666667
+2024-05-20 00:30:32,084 - INFO - Community 4 Average Internal Degree: 21.466666666666665
+2024-05-20 00:30:32,084 - INFO - Community 5 Average Internal Degree: 24.608695652173914
+2024-05-20 00:30:32,084 - INFO - Community 6 Average Internal Degree: 14.0
+2024-05-20 00:30:32,084 - INFO - Community 7 Average Internal Degree: 8.363636363636363
+2024-05-20 00:30:32,084 - INFO - Community 8 Average Internal Degree: 7.846153846153846
+2024-05-20 00:30:32,084 - INFO - Community 9 Average Internal Degree: 25.8
+2024-05-26 02:44:27,919 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-26 02:46:58,155 - INFO - Converting the graph to an adjacency matrix.
+2024-05-26 02:47:05,703 - INFO - Searching for the optimal number of clusters.
+2024-05-26 02:47:19,493 - INFO - Number of clusters: 2, Modularity: 4.17508601302353e-05
+2024-05-26 02:47:33,048 - INFO - Number of clusters: 3, Modularity: 4.371519997066175e-05
+2024-05-26 02:47:46,536 - INFO - Number of clusters: 4, Modularity: 0.00015698841933115345
+2024-05-26 02:48:00,192 - INFO - Number of clusters: 5, Modularity: 0.0002738486371046326
+2024-05-26 02:48:13,951 - INFO - Number of clusters: 6, Modularity: 0.00031553505790457743
+2024-05-26 02:48:27,582 - INFO - Number of clusters: 7, Modularity: 0.0003811262537155484
+2024-05-26 02:48:41,597 - INFO - Number of clusters: 8, Modularity: 0.0005288902277080125
+2024-05-26 02:48:55,750 - INFO - Number of clusters: 9, Modularity: 0.0005372650432892149
+2024-05-26 02:48:55,750 - INFO - Optimal number of clusters: 9
+2024-05-26 02:49:00,386 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-26 02:49:00,389 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-26 02:49:00,392 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-26 02:49:00,394 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-26 02:49:00,397 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-26 02:49:00,399 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-26 02:49:00,401 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-26 02:49:00,403 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-26 02:49:00,406 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-26 02:49:09,862 - INFO - Modularity: 0.0005372650432892149
+2024-05-26 02:49:21,378 - INFO - Silhouette Coefficient: -0.36005284261162906
+2024-05-26 03:51:44,833 - INFO - Global Efficiency: 0.6884295887263521
+2024-05-26 11:21:34,214 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-26 11:24:04,092 - INFO - Converting the graph to an adjacency matrix.
+2024-05-26 11:24:11,776 - INFO - Searching for the optimal number of clusters.
+2024-05-26 11:24:25,374 - INFO - Number of clusters: 2, Modularity: 4.17508601302353e-05
+2024-05-26 11:24:39,124 - INFO - Number of clusters: 3, Modularity: 4.371519997066175e-05
+2024-05-26 11:24:52,753 - INFO - Number of clusters: 4, Modularity: 0.00015698841933115345
+2024-05-26 11:25:06,544 - INFO - Number of clusters: 5, Modularity: 0.0002738486371046326
+2024-05-26 11:25:20,420 - INFO - Number of clusters: 6, Modularity: 0.00031553505790457743
+2024-05-26 11:25:34,257 - INFO - Number of clusters: 7, Modularity: 0.0003811262537155484
+2024-05-26 11:25:48,475 - INFO - Number of clusters: 8, Modularity: 0.0005288902277080125
+2024-05-26 11:26:02,721 - INFO - Number of clusters: 9, Modularity: 0.0005372650432892149
+2024-05-26 11:26:02,721 - INFO - Optimal number of clusters: 9
+2024-05-26 11:26:07,402 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-26 11:26:07,826 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-26 11:26:07,829 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-26 11:26:07,832 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-26 11:26:07,835 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-26 11:26:07,837 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-26 11:26:07,840 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-26 11:26:07,842 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-26 11:26:07,845 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-26 11:26:17,441 - INFO - Modularity: 0.0005372650432892149
+2024-05-26 11:26:28,741 - INFO - Silhouette Coefficient: -0.36005284261162906
+2024-05-26 12:34:26,075 - INFO - Global Efficiency: 0.6884295887263521
+2024-05-26 13:10:26,678 - INFO - Loading the graph from '/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-26 13:12:57,146 - INFO - Converting the graph to an adjacency matrix.
+2024-05-26 13:13:04,757 - INFO - Searching for the optimal number of clusters.
+2024-05-26 13:13:18,243 - INFO - Number of clusters: 2, Modularity: 4.17508601302353e-05
+2024-05-26 13:13:31,916 - INFO - Number of clusters: 3, Modularity: 4.371519997066175e-05
+2024-05-26 13:13:45,518 - INFO - Number of clusters: 4, Modularity: 0.00015698841933115345
+2024-05-26 13:13:59,253 - INFO - Number of clusters: 5, Modularity: 0.0002738486371046326
+2024-05-26 13:14:13,101 - INFO - Number of clusters: 6, Modularity: 0.00031553505790457743
+2024-05-26 13:14:26,914 - INFO - Number of clusters: 7, Modularity: 0.0003811262537155484
+2024-05-26 13:14:41,055 - INFO - Number of clusters: 8, Modularity: 0.0005288902277080125
+2024-05-26 13:14:55,281 - INFO - Number of clusters: 9, Modularity: 0.0005372650432892149
+2024-05-26 13:14:55,281 - INFO - Optimal number of clusters: 9
+2024-05-26 13:14:59,941 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_1_positions.npy
+2024-05-26 13:14:59,943 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_2_positions.npy
+2024-05-26 13:14:59,946 - INFO - Community 3 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_3_positions.npy
+2024-05-26 13:14:59,948 - INFO - Community 4 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_4_positions.npy
+2024-05-26 13:14:59,950 - INFO - Community 5 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_5_positions.npy
+2024-05-26 13:14:59,952 - INFO - Community 6 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_6_positions.npy
+2024-05-26 13:14:59,954 - INFO - Community 7 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_7_positions.npy
+2024-05-26 13:14:59,956 - INFO - Community 8 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_8_positions.npy
+2024-05-26 13:14:59,958 - INFO - Community 9 positions saved to /home/599/xs5813/4880/pattern_detection/s_result/community_9_positions.npy
+2024-05-26 13:15:09,538 - INFO - Modularity: 0.0005372650432892149
+2024-05-26 13:15:20,841 - INFO - Silhouette Coefficient: -0.36005284261162906
+2024-05-26 14:22:14,743 - INFO - Global Efficiency: 0.6884295887263521
+2024-05-26 14:22:14,768 - INFO - Conductance: 0.0

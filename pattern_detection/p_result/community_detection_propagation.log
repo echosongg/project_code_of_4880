@@ -1,0 +1,28 @@
+2024-05-19 21:36:23,771 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 21:38:54,960 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 21:39:13,248 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_1_positions.npy
+2024-05-19 21:39:13,254 - INFO - Community 2 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_2_positions.npy
+2024-05-19 21:39:22,926 - INFO - Modularity: 7.886605104716424e-05
+2024-05-19 23:11:43,189 - INFO - Average Clustering Coefficient: 0.8166931487046857
+2024-05-19 23:11:50,369 - INFO - Average Community Density: 0.5986123743155047
+2024-05-19 23:11:50,778 - INFO - Silhouette Coefficient: 0.5270201121848763
+2024-05-19 23:31:55,845 - INFO - Loading the graph from 'graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-19 23:35:11,311 - INFO - Loading the graph from 'graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-19 23:37:41,818 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 23:38:02,338 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_1_positions.npy
+2024-05-19 23:38:12,117 - INFO - Modularity: 0.0
+2024-05-19 23:40:53,242 - INFO - Loading the graph from 'graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-19 23:43:28,643 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 23:43:49,593 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_1_positions.npy
+2024-05-19 23:43:59,871 - INFO - Modularity: 0.0
+2024-05-20 00:09:07,025 - INFO - Loading the graph from 'graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-20 00:11:40,600 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-20 00:12:01,393 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_1_positions.npy
+2024-05-20 00:12:11,030 - INFO - Modularity: 0.0
+2024-05-26 13:17:27,604 - INFO - Loading the graph from 'graph_Aus_mask_3year_thresh2_same_t_and_r.graphml'.
+2024-05-26 13:19:59,092 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-26 13:20:19,634 - INFO - Community 1 positions saved to /home/599/xs5813/4880/pattern_detection/p_result/community_1_positions.npy
+2024-05-26 13:20:29,263 - INFO - Modularity: 0.0
+2024-05-26 13:20:35,841 - INFO - Community 1 Average Internal Degree: 2516.941370223979
+2024-05-26 14:26:53,638 - INFO - Global Efficiency: 0.6884295887263521
+2024-05-26 14:26:59,039 - INFO - Conductance: 0.0

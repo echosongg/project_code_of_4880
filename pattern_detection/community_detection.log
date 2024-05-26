@@ -1,0 +1,81 @@
+2024-05-19 18:28:06,710 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 18:30:41,306 - INFO - Applying Louvain algorithm for community detection.
+2024-05-19 18:36:39,048 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 18:36:39,050 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 18:36:39,053 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 18:36:39,055 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 18:36:39,057 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 18:36:39,059 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 18:37:37,871 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 18:40:13,081 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:19:10,189 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 19:21:45,609 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:28:15,649 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 19:30:50,718 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:35:07,871 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 19:37:42,130 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:39:57,769 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 19:42:37,846 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:42:57,725 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 19:42:57,729 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 19:49:24,937 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 19:52:18,806 - INFO - Applying Label Propagation algorithm for community detection.
+2024-05-19 19:52:39,892 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 19:52:39,899 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 20:18:56,254 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 20:21:33,940 - INFO - Converting the graph to an adjacency matrix.
+2024-05-19 20:21:41,837 - INFO - Searching for the optimal number of clusters.
+2024-05-19 20:21:50,208 - INFO - Number of clusters: 2, Silhouette Score: -0.37394921659195796
+2024-05-19 20:21:58,670 - INFO - Number of clusters: 3, Silhouette Score: -0.37834271430159117
+2024-05-19 20:22:06,986 - INFO - Number of clusters: 4, Silhouette Score: -0.37645525407975294
+2024-05-19 20:22:15,205 - INFO - Number of clusters: 5, Silhouette Score: -0.37211361902723583
+2024-05-19 20:22:23,652 - INFO - Number of clusters: 6, Silhouette Score: -0.36644265271722465
+2024-05-19 20:22:32,104 - INFO - Number of clusters: 7, Silhouette Score: -0.36238438008812296
+2024-05-19 20:22:40,483 - INFO - Number of clusters: 8, Silhouette Score: -0.3634496147842639
+2024-05-19 20:22:48,980 - INFO - Number of clusters: 9, Silhouette Score: -0.3578370227001363
+2024-05-19 20:22:48,980 - INFO - Optimal number of clusters: 9
+2024-05-19 20:22:54,246 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 20:22:54,248 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 20:22:54,251 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 20:22:54,263 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 20:22:54,264 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 20:22:54,266 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 20:22:54,267 - INFO - Community 7 positions saved to community_7_positions.npy
+2024-05-19 20:22:54,269 - INFO - Community 8 positions saved to community_8_positions.npy
+2024-05-19 20:22:54,270 - INFO - Community 9 positions saved to community_9_positions.npy
+2024-05-19 20:28:43,264 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 20:31:20,766 - INFO - Converting the graph to an adjacency matrix.
+2024-05-19 20:31:28,658 - INFO - Defining Spectral Clustering model with 7 clusters.
+2024-05-19 20:31:28,659 - INFO - Applying spectral clustering.
+2024-05-19 20:31:33,837 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 20:31:33,839 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 20:31:33,841 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 20:31:33,843 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 20:31:33,845 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 20:31:33,847 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 20:31:33,849 - INFO - Community 7 positions saved to community_7_positions.npy
+2024-05-19 20:39:15,590 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 20:41:50,085 - INFO - Converting the graph to an adjacency matrix.
+2024-05-19 20:41:57,969 - INFO - Defining Spectral Clustering model with 6 clusters.
+2024-05-19 20:41:57,969 - INFO - Applying spectral clustering.
+2024-05-19 20:42:03,011 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 20:42:03,013 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 20:42:03,015 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 20:42:03,017 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 20:42:03,019 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 20:42:03,021 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 20:48:07,518 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 20:50:43,975 - INFO - Applying Louvain algorithm for community detection.
+2024-05-19 20:58:37,278 - INFO - Loading the graph from 'graph_creation_Aus_no_dis.graphml'.
+2024-05-19 20:59:27,572 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 20:59:27,575 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 20:59:27,576 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 20:59:27,578 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 20:59:27,581 - INFO - Community 5 positions saved to community_5_positions.npy
+2024-05-19 20:59:27,582 - INFO - Community 6 positions saved to community_6_positions.npy
+2024-05-19 21:05:25,876 - INFO - Applying Louvain algorithm for community detection.
+2024-05-19 21:10:25,411 - INFO - Community 1 positions saved to community_1_positions.npy
+2024-05-19 21:10:25,414 - INFO - Community 2 positions saved to community_2_positions.npy
+2024-05-19 21:10:25,418 - INFO - Community 3 positions saved to community_3_positions.npy
+2024-05-19 21:10:25,420 - INFO - Community 4 positions saved to community_4_positions.npy
+2024-05-19 21:10:25,422 - INFO - Community 5 positions saved to community_5_positions.npy
