@@ -116,5 +116,5 @@ logging.info(f"Total number of edges: {edge_count}")
 logging.info(f"Average degree of nodes: {average_degree:.2f}")
 
 # 保存图为 GraphML 文件
-nx.write_graphml(G, "/scratch/iu60/xs5813/graph_aus_mask_net.graphml")
+nx.write_graphml(G, "/scratch/iu60/xs5813/graph_Aus_mask_3year_thresh2_same_t_and_r.graphml.graphml")
 logging.info("Graph saved as 'graph_Aus'")
